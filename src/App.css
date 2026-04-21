@@ -1,7 +1,7 @@
 .foto{
   height: 100vh;
   width: 50%;
-  background: url('./assets/spider.jpg');
+  background: url('spider.jfif');
   float: left;
 }
 .foto img{
@@ -106,12 +106,8 @@ h1{
   margin-left: 10%;
   margin-top: 5vh;
 }
-}
+
 .tudo img{
   margin-top: 50%;
 }
-.foto img{
-  width: 100%;
-  height: 0vh;
-  background: url('spider.jpg');
 }

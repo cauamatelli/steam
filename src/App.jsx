@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import tails from './assets/tails.jpg'
-import spider from './assets/spider.jpg'
+import spider from './assets/spider.jfif'
 import logo from './assets/logo.png'
 import './App.css'
 
